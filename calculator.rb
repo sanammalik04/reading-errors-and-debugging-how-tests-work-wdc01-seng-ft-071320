@@ -1,6 +1,5 @@
-def first_number2,second_number4
-puts sum = first_number2 + second_number4
-sum
+def first_number
+  
 end
 
 
