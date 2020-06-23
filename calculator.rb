@@ -1,5 +1,4 @@
-def first_number
-first_number = 2 
+def first_number(2)
 
 end
 
