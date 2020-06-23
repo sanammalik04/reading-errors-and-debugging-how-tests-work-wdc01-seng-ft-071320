@@ -1,4 +1,5 @@
-def first_number(2)
+def first_number (integer, float)
+  puts first_number
 
 end
 
