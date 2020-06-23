@@ -1,4 +1,4 @@
-def first_number (integer or float)
+def first_number 
  
 
 
